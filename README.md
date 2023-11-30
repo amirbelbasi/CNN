@@ -1,5 +1,5 @@
-# tumor-detector
+# cancer-detector
 
-* Recurrent Neural Network for Bitcoin Price Prediction | Principles of Computational Intelligence
-  * Trained RNN with stochastic gradient descent optimizer algorithm & mean squared error as loss value for BTC-USD price prediction
-  * Utilized Python, TensorFlow (Keras) for model build & train, scikit-learn for raw data preprocessing, GRU layers, Dropout layers to avoid overfitting, Jupyter notebook & matplotlib 
+* Revised ResNet50 for Chest Cancer Classification | Principles of Computational Intelligence
+  * Revised ResNet50 and used it to classify three types of most common chest cancer (Adenocarcinoma, Large cell carcinoma, and Squamous cell carcinoma) and normal scan
+  * Utilized Python, PyTorch (ResNet50), Transfer Learning, , [Kaggle Dataset](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images) for training & evaluation
