@@ -10,4 +10,4 @@ Sample Images:
 
 Trainset & Validationset Results:
 
-![image](https://github.com/amirbelbasi/CNN/assets/58425120/9d5ab93b-a6e6-4bd6-960c-e14f9f219edc)
+![image](https://github.com/amirbelbasi/CNN/assets/58425120/aee08fcc-0672-480c-b10d-8077fdd05db9)
