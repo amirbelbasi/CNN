@@ -2,7 +2,7 @@
 
 * CNN (Revised ResNet50) for Chest Cancer Classification | Principles of Computational Intelligence
   * Revised ResNet50 and used it to classify three types of most common chest cancer (Adenocarcinoma, Large cell carcinoma, and Squamous cell carcinoma) from normal scan
-  * Utilized Python, CNN, Transfer Learning, OpenCV, TensorFlow & Keras (Base for ResNet50), NumPy, MatplotLib, Data Augmentation, Average & Max Pooling, Zero padding, Flatten & Dense Layers, Dropout Layers & Early Stopping to avoid Overfitting, Batch Normalization, Adam as Optimizer, Relu as activation function, Softmax & Cross Entropy as loss, [Kaggle Dataset](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images) for training & evaluation (70% train | 20% test | 10% validation) 
+  * Utilized Python, CNN, Transfer Learning, TensorFlow & Keras (Base for ResNet50), NumPy, MatplotLib, Data Augmentation, Average & Max Pooling, Zero padding, Flatten & Dense Layers, Dropout Layers & Early Stopping to avoid Overfitting, Batch Normalization, Adam as Optimizer, Relu as activation function, Softmax & Cross Entropy as loss, [Kaggle Dataset](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images) for training & evaluation (70% train | 20% test | 10% validation) 
 
 Sample Images:
 
